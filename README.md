@@ -19,4 +19,4 @@ Sword
 ## links
 [dataset](https://drive.google.com/file/d/1zfZa3xsK36E0Zr8DD5Kpy9LoIMUftAXr/view?usp=share_link)
 
-[model](https://drive.google.com/drive/folders/19R7pnU9uVcvnyfJClB1RAEHqt6lQr5V2?usp=share_link)
+[model](https://drive.google.com/drive/folders/1xtzhhiyExR8R7vNcg2ezXPPGzWS0riMX?usp=share_link)
