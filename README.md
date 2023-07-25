@@ -16,7 +16,8 @@ Sword
 3. train frcnn on custom dataset
 4. test and evaluate
 
-## links
+## dataset
 [dataset](https://drive.google.com/file/d/1zfZa3xsK36E0Zr8DD5Kpy9LoIMUftAXr/view?usp=share_link)
 
+## trained model
 [model](https://drive.google.com/drive/folders/1xtzhhiyExR8R7vNcg2ezXPPGzWS0riMX?usp=share_link)
